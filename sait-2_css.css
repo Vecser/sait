@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+
+body{
+    background-image: linear-gradient(to top,yellow,green);
+}
+a{
+    color: aqua;
+}
+h1{
+    color: aquamarine;
+}
+ul{
+    color: black;
+    background-image: linear-gradient(green,aqua);
+}
